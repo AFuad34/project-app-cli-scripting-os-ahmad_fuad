@@ -1,0 +1,3 @@
+Januari,50
+Februari,55
+Maret,58
