@@ -1,0 +1,4 @@
+Link GDrive penjelasan mini project:
+https://drive.google.com/file/d/16xI0UYcswAE8iqiL0EDqRbPbKMLBV3xS/view?usp=sharing
+
+Mini Project bisa dijalankan dengan menggunakan ./app.sh. Mini project ini menggunakan input nama bulan dan kwh setiap bulannya, yang dimana dapat disimpan di pemakaian_bulanan.txt dengan memilih tindakan 1. Input dari data bulan yang telah ditambahkan bisa dilihat dengan mimilih tindakan no 2 dan juga bisa dihapus dengan memilih tindakan no 3. Output pada mini project ini yaitu berapa tagihan listrik pada bulan yang kita pilih pada tindakan no 4 yang dimana tarif kwh sudah ditentukan sebesar RP 1500. Kita dapat keluar dari aplikasi dengan memilih tindakan no 5.
