@@ -97,6 +97,7 @@ while true; do
   echo "5. Keluar"
   read -p "Masukkan pilihan Anda: " pilihan
 
+# LOOP
   case "$pilihan" in
     1)
       tambah_data
